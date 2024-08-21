@@ -1,0 +1,43 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co/thZbXXM/rear-view-programmer-working-all-night-long.jpg",
+      "title": "Journey to the Edge of Space",
+      "author": "Elena Roberts",
+      "author_img": "https://i.ibb.co/prXGfms/young-beautiful-brunette-businesswoman-smiling-pointing-finger-side.jpg",
+      "posted_date": "2024-08-10",
+      "reading_time": 7 ,
+      "hashtags": ["#Space", "#Exploration", "#Science"]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co/5WMSKGY/flat-lay-desktop-with-notebook-pizza.jpg",
+      "title": "The Art of Minimalist Design",
+      "author": "Liam Thompson",
+      "author_img": "https://i.ibb.co/yF3SZjt/pleased-male-customer-show-okay-sign-recommend-product.jpg",
+      "posted_date": "2024-07-25",
+      "reading_time": 5,
+      "hashtags": ["#Design", "#Minimalism", "#Creativity"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co/DLTMHmL/high-angle-desktop-with-laptop-copy-space.jpg",
+      "title": "Breaking Down Machine Learning",
+      "author": "Sophia Adams",
+      "author_img": "https://i.ibb.co/vC5YHBK/travel-agent-hearing-customer-desires-portrait-good-looking-european-businesswoman-blue-blouse-glass.jpg",
+      "posted_date": "2024-08-05",
+      "reading_time": 8 ,
+      "hashtags": ["#MachineLearning", "#AI", "#Tech"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co/JdYFj6f/flat-lay-work-desktop-with-notebook-keyboard.jpg",
+      "title": "The Future of Renewable Energy",
+      "author": "Oliver Green",
+      "author_img": "https://i.ibb.co/dMQG8pH/friendly-looking-charming-happy-young-dark-skinned-female-showing-heart-gesture-romantic-love-sign-s.jpg",
+      "posted_date": "2024-06-30",
+      "reading_time": 6 ,
+      "hashtags": ["#Energy", "#Sustainability", "#Renewables"]
+    }
+  ]
+  
